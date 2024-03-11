@@ -1,6 +1,6 @@
-### Hi there, I am Espen
+### Hei 
 
-I've been studying Javascript and acquired a good understanding on how to use it.
+Jeg heter Espen, og studerer for tiden front-end på Kodehode. 
 
 <!--
 **EspenB08/EspenB08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
