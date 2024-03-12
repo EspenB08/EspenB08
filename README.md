@@ -1,7 +1,9 @@
 ### Hei 
 
-Jeg heter Espen, og studerer for tiden front-end på Kodehode. 
-
+Jeg heter Espen, og studerer for tiden på Kodehode. 
+I løpet av tiden min på Kodehode har jeg fått en god forståelse av front-end. Jeg har også brukt mye tid på React.
+har også bynt å se på C#
+Beste måten å nå meg på er gjennom mail: espenb08.kodehode@gmail.com
 <!--
 **EspenB08/EspenB08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
