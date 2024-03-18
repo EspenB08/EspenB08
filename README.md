@@ -7,6 +7,8 @@ Runescape hvor Jeg har har vært guild leder og event organisator.
 
 
 Beste måten å nå meg på er gjennom mail: espenb08.kodehode@gmail.com <br><br>
+<hr>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EspenB08&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **EspenB08/EspenB08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
