@@ -2,8 +2,8 @@
 
 Jeg har akkurat fullført første del av et frontend utviklingsprogram løp gjennom Kodehode. Der har jeg lært og fordypet meg i Javascript, og jobber for tiden mest med React. Jeg har fått veldig sansen for frontendfaget, og ønsker å komme til en plass hvor jeg får fordypet meg enda mer i dette.
 
-På fritiden liker jeg å spille videospill, League of legends hvor jeg har vært medlem i flere klubber både som spiller og trener. <br>
-Runescape hvor Jeg har har vært guild leder og event organisator.
+På fritiden liker jeg å spille videospill, hvor jeg har vært medlem i flere E-sport klubber både som spiller og trener. <br>
+har også vært guild leder og event organisator.
 
 
 Beste måten å nå meg på er gjennom mail: espenb08.kodehode@gmail.com <br><br>
