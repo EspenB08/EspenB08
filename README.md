@@ -6,7 +6,7 @@ På fritiden liker jeg å spille videospill, hvor jeg har vært medlem i flere E
 har også vært guild leder og event organisator.
 
 
-Beste måten å nå meg på er gjennom mail: espenb08.kodehode@gmail.com <br><br>
+Beste måten å nå meg på er gjennom mail: Spen_andre@hotmail.com <br><br>
 <hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EspenB08&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
